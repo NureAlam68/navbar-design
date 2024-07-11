@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Space Grotesk;
+} 
+
+.navbar{
+    background-color: black;
+    height: 80px;
+    padding-top: 20px;
+} 
+
+#aone{
+    font-size: 30px;
+    color: rgb(0, 238, 255);
+    font-weight: 600;
+} 
+
+a{
+    margin-right:200px;
+    color: #fff;
+    text-align: center;
+}  
+
+button{
+    background-color: rgb(0, 238, 255);
+    padding: 2px;
+}
+
+a:hover{
+    color: rgb(5, 15, 15);
+    background-color: rgb(0, 238, 255);
+}
+
